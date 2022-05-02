@@ -2,7 +2,9 @@
 - 😃 I like to make people smile
 - 💻 I’m currently learning Go
 - 🌱 I’m a Noogler in GKE Networking
-- 📫 How to reach me: mmorinsoftware@gmail.com
+- 📫 How to reach me:
+  - Work: synth@google.com
+  - Personal: mmorinsoftware@gmail.com
 
 <!---
 synth-beat/synth-beat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
