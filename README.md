@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @synth-beat
 - 😃 I like to make people smile
-- 💻 I’m currently learning Go
-- 🌱 I’m a Noogler in GKE Networking
+- 💻 I currently work in Go, but have experience with other languages
+- 🌱 I’m a Googler in GKE Networking
 - 📫 How to reach me:
   - Work: synth@google.com
   - Personal: mmorinsoftware@gmail.com
